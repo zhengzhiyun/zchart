@@ -1,9 +1,4 @@
-/* 
-* @Author: anchen
-* @Date:   2016-08-14 17:48:12
-* @Last Modified by:   anchen
-* @Last Modified time: 2016-08-14 17:48:40
-*/
+
 
 function Draw(x, y, da, Id, dataFrom, type) {
     this.x = x;
